@@ -1,0 +1,2 @@
+file 'C:\Users\jesus\Documents\java\ph\Dalia\src\main\resources\animalMagic.mp3'
+file 'C:\Users\jesus\Documents\java\ph\Dalia\src\main\resources\allSystemsGo.mp3'
