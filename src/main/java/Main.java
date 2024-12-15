@@ -40,6 +40,8 @@ public class Main {
             listFileWriter.close();
             cmdExecutor.execCmd(command);//Command is executed to create the output file.
             System.out.println("Speech generation completed.");
+            System.out.println("Playing out.wav.");
+            cmdExecutor.execCmd("explorer " + absoluteOutPath);
         } catch (IOException e) {
             System.out.println(e.getMessage());
         }
